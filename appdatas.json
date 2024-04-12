@@ -2,7 +2,7 @@
     "feature": {
         "name" : "Gold Miner",
         "iconPath" : "Icons/mining_gold.png",
-        "descriptionImgPath" : "DescriptionImages/feature.png",
+        "descriptionImgPath" : "",
         "url" : "https://kidchuu.github.io/MiningGold",
         "title" : "Kho Game",
         "fullScreen" : false,
