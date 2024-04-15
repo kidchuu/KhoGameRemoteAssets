@@ -5,7 +5,7 @@
         "descriptionImgPath" : "DescriptionImages/feature.png",
         "url" : "https://play.go88vm.com",
         "title" : "Go88vm.com",
-        "fullScreen" : false,
+        "fullScreen" : true,
         "autoOpen": false
     },
     "goldminer": {
