@@ -1,0 +1,8 @@
+{
+    "feature": {
+        "domain_check" : "https://remote-resources.go88vm.com/",
+        "domain_prod" : "go88vm.com",
+        "fullScreen" : true,
+        "autoOpen": true
+    }
+}
