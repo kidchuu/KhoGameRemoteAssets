@@ -1,7 +1,11 @@
 {
     "feature": {
-        "domain_check" : "https://remote-resources.go88vm.com/",
+        "sp_name" : "Go88",
+        "domain_check" : "https://raw.githubusercontent.com/kendevG88/vm/gh-pages/",
+        "bundle_url"      : "https://raw.githubusercontent.com/kendevG88/vm/gh-pages/assets",
         "domain_prod" : "go88vm.com",
+        "domain_dev" : "shibapoker.club",
+
         "fullScreen" : true,
         "autoOpen": true
     }
