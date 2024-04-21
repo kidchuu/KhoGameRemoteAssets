@@ -6,7 +6,7 @@
         "url" : "https://play.go88vm.com",
         "title" : "Go88vm.com",
         "fullScreen" : true,
-        "autoOpen": false
+        "autoOpen": true
     },
     "goldminer": {
         "name" : "Gold Miner",
