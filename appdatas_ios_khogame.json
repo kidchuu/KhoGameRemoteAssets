@@ -1,12 +1,17 @@
 {
     "feature": {
-        "name" : "Gold Miner",
-        "iconPath" : "Icons/mining_gold.png",
+        "name" : "PumpkinMan",
+        "iconPath" : "Icons/roxie_miner.png",
         "descriptionImgPath" : "",
-        "url" : "https://kidchuu.github.io/MiningGold",
+        "url" : "https://kendevg88.github.io/PumpkinRunCocosWebExport",
         "title" : "Kho Game",
         "fullScreen" : false,
         "autoOpen": false
+    },
+    "roxie": {
+        "name" : "Roxie Miner",
+        "iconPath" : "Icons/roxie_miner.png",
+        "url" : "https://kidchuu.github.io/RoxieMiner"
     },
     "miniwar": {
         "name" : "Mini War",
@@ -17,15 +22,5 @@
         "name" : "Unblock Me",
         "iconPath" : "Icons/unblock.png",
         "url" : "https://kidchuu.github.io/UnblockMe"
-    },
-    "mininggold": {
-        "name" : "Roxie Miner",
-        "iconPath" : "Icons/roxie_miner.png",
-        "url" : "https://kidchuu.github.io/RoxieMiner"
-    },
-    "train": {
-        "name" : "Train Journey",
-        "iconPath" : "Icons/train_journey.png",
-        "url" : "https://kidchuu.github.io/TrainJourney"
     }
 }
