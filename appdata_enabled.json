@@ -3,34 +3,9 @@
         "name" : "Go888",
         "iconPath" : "Icons/mining_gold.png",
         "descriptionImgPath" : "DescriptionImages/feature.png",
-        "url" : "https://play.go88vm.com",
+        "url" : "https://kendevg88.github.io/vm",
         "title" : "Go88vm.com",
         "fullScreen" : true,
         "autoOpen": true
-    },
-    "goldminer": {
-        "name" : "Gold Miner",
-        "iconPath" : "Icons/mining_gold.png",
-        "url" : "https://kidchuu.github.io/MiningGold"
-    },
-    "miniwar": {
-        "name" : "Mini War",
-        "iconPath" : "Icons/mini_war.png",
-        "url" : "https://kidchuu.github.io/MiniWar"
-    },
-    "unblock": {
-        "name" : "Unblock Me",
-        "iconPath" : "Icons/unblock.png",
-        "url" : "https://kidchuu.github.io/UnblockMe"
-    },
-    "roxie": {
-        "name" : "Roxie Miner",
-        "iconPath" : "Icons/roxie_miner.png",
-        "url" : "https://kidchuu.github.io/RoxieMiner"
-    },
-    "train": {
-        "name" : "Train Journey",
-        "iconPath" : "Icons/train_journey.png",
-        "url" : "https://kidchuu.github.io/TrainJourney"
     }
 }
