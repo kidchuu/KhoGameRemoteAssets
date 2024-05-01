@@ -1,11 +1,16 @@
 {
     "feature": {
-        "name" : "PumpkinMan",
+        "name" : "Pumpkin Man",
         "iconPath" : "Icons/pumpkin_man.png",
         "descriptionImgPath" : "",
         "url" : "https://kendevg88.github.io/PumpkinRunCocosWebExport",
         "title" : "Kho Game",
         "fullScreen" : false,
         "autoOpen": false
+    },
+    "aquarium": {
+        "name" : "Aquarium",
+        "iconPath" : "Icons/aquarium.png",
+        "url" : "https://kendevg88.github.io/AquariumUnityWebGL"
     }
 }
