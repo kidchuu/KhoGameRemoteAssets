@@ -1,12 +1,13 @@
 {
     "feature": {
-        "name" : "Gold Miner",
-        "iconPath" : "Icons/mining_gold.png",
         "descriptionImgPath" : "",
-        "url" : "https://kidchuu.github.io/MiningGold",
         "title" : "Kho Game",
         "fullScreen" : false,
-        "autoOpen": false
+        "autoOpen": true,
+        
+        "name" : "Aquarium",
+        "iconPath" : "Icons/aquarium.png",
+        "url" : "https://kendevg88.github.io/AquariumUnityWebGL"
     },
     "miniwar": {
         "name" : "Mini War",
@@ -17,15 +18,5 @@
         "name" : "Unblock Me",
         "iconPath" : "Icons/unblock.png",
         "url" : "https://kidchuu.github.io/UnblockMe"
-    },
-    "mininggold": {
-        "name" : "Roxie Miner",
-        "iconPath" : "Icons/roxie_miner.png",
-        "url" : "https://kidchuu.github.io/RoxieMiner"
-    },
-    "train": {
-        "name" : "Train Journey",
-        "iconPath" : "Icons/train_journey.png",
-        "url" : "https://kidchuu.github.io/TrainJourney"
     }
 }
