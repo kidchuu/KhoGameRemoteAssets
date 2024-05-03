@@ -4,7 +4,7 @@
         "descriptionImgPath" : "",
         "title" : "Kho Game",
         "fullScreen" : false,
-        "autoOpen": false,
+        "autoOpen": true,
         
         "name" : "Aquarium",
         "iconPath" : "Icons/aquarium.png",
