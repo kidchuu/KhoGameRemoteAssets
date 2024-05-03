@@ -9,10 +9,5 @@
         "name" : "Aquarium",
         "iconPath" : "Icons/aquarium.png",
         "url" : "https://kendevg88.github.io/AquariumUnityWebGL"
-    },
-    "aquarium": {
-        "name" : "Pumpkin Man",
-        "iconPath" : "Icons/pumpkin_man.png",
-        "url" : "https://kendevg88.github.io/PumpkinRunCocosWebExport"
     }
 }
