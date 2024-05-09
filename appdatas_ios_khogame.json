@@ -4,10 +4,30 @@
         "descriptionImgPath" : "",
         "title" : "Kho Game",
         "fullScreen" : false,
-        "autoOpen": true,
+        "autoOpen": false,
         
         "name" : "Aquarium",
         "iconPath" : "Icons/aquarium.png",
         "url" : "https://kendevg88.github.io/AquariumUnityWebGL"
+    },
+    "miniwar": {
+        "name" : "Mini War",
+        "iconPath" : "Icons/mini_war.png",
+        "url" : "https://kidchuu.github.io/MiniWar"
+    },
+    "unblock": {
+        "name" : "Unblock Me",
+        "iconPath" : "Icons/unblock.png",
+        "url" : "https://kidchuu.github.io/UnblockMe"
+    },
+    "roxie": {
+        "name" : "Roxie Miner",
+        "iconPath" : "Icons/roxie_miner.png",
+        "url" : "https://kidchuu.github.io/RoxieMiner"
+    },
+    "mininggold": {
+        "name" : "Unblock Me",
+        "iconPath" : "Icons/mining_gold.png",
+        "url" : "https://kidchuu.github.io/MiningGold"
     }
 }
