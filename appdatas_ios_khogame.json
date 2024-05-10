@@ -12,8 +12,8 @@
     },
     "miniwar": {
         "name" : "Mini War",
-        "iconPath" : "Icons/mini_war.png",
-        "url" : "https://kidchuu.github.io/MiniWar"
+        "iconPath" : "Icons/pumpkin_man.png",
+        "url" : "https://kidchuu.github.io/PumpkinRunCocosWebExport"
     },
     "unblock": {
         "name" : "Unblock Me",
